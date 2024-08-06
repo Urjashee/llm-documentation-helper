@@ -14,3 +14,4 @@ pandas
 wikipedia
 streamlit
 streamlit_chat
+pexpect
